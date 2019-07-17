@@ -1,3 +1,9 @@
+#days {
+  display: block;
+  color: #07b38b;
+  font-size: 13px;
+  margin-top: 15px;
+}
 code {
   margin: 0px 3px;
   border: 1px solid #999;
@@ -1738,6 +1744,12 @@ pre .javascript .function {
   overflow-y: auto;
   overflow-x: hidden;
 }
+#days {
+  display: block;
+  color: #07b38b;
+  font-size: 13px;
+  margin-top: 15px;
+}
 .sidebar-toggle {
   position: fixed;
   right: 30px;
@@ -1874,7 +1886,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ebe208;
+  background: #14ff21;
 }
 .links-of-blogroll {
   font-size: 13px;
