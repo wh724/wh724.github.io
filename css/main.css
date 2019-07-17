@@ -1163,14 +1163,14 @@ pre .javascript .function {
 .site-title {
   display: inline-block;
   vertical-align: top;
-  line-height: 44px;
-  font-size: 36px;
+  line-height: 45px;
+  font-size: 28px;
   font-weight: 400;
   font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
 }
 .site-subtitle {
-  margin-top: 6px;
-  font-size: 17px;
+  margin-top: 10px;
+  font-size: 13px;
   color: #f37055;
 }
 .use-motion .brand {
@@ -1236,7 +1236,7 @@ pre .javascript .function {
 }
 .menu .menu-item a {
   display: block;
-  font-size: 16px;
+  font-size: 13px;
   line-height: inherit;
   border-bottom: 1px solid transparent;
   transition-property: border-color;
@@ -1497,7 +1497,7 @@ pre .javascript .function {
   text-align: center;
   word-break: break-word;
   font-weight: 700;
-  font-size: 34px;
+  font-size: 22px;
 }
 .posts-expand .post-title-link {
   display: inline-block;
@@ -1540,7 +1540,7 @@ pre .javascript .function {
   margin: 10px 0 20px 0;
   color: #999;
   font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
-  font-size: 16px;
+  font-size: 10px;
   text-align: center;
 }
 .posts-expand .post-meta .post-category-list {
@@ -1779,7 +1779,7 @@ pre .javascript .function {
   display: block;
   margin: 0 auto;
   padding: 2px;
-  max-width: 193px;
+  max-width: 150px;
   height: auto;
   border: 2px solid #333;
   borer-radius: 50%;
@@ -1799,10 +1799,10 @@ pre .javascript .function {
   font-weight: normal;
 }
 .site-description {
-  margin-top: 15px;
+  margin-top: 8px;
   margin-left: 13px;
   text-align: center;
-  font-size: 15px;
+  font-size: 13px;
   font-weight: 700;
   color: #f37055;
 }
@@ -1874,7 +1874,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #b8d559;
+  background: #c4ffff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2434,11 +2434,6 @@ li.recent_posts_li {
   -o-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   color: #ccc;
-}
-.site-uv,
-.site-pv,
-.page-pv {
-  display: inline-block;
 }
 .site-uv .busuanzi-value,
 .site-pv .busuanzi-value,
