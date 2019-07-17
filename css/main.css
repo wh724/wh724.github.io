@@ -1874,7 +1874,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #94daff;
+  background: #791382;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -1932,8 +1932,9 @@ li.recent_posts_li {
   margin-left: 10px;
 }
 .sidebar-nav .sidebar-nav-active {
-  color: #87daff;
-  border-bottom-color: #87daff;
+  color: #07b39b;
+  border-bottom-color: #a166ab;
+  border-bottom-width: 2px;
 }
 .sidebar-nav .sidebar-nav-active:hover {
   color: #87daff;
@@ -1969,8 +1970,8 @@ li.recent_posts_li {
   transition-timing-function: ease-in-out;
   transition-delay: 0s;
   transition-property: all;
-  color: #999;
-  border-bottom-color: #555;
+  color: #07b39b;
+  border-bottom: 1px solid #607d8b;
 }
 .post-toc ol a:hover {
   color: #ccc;
