@@ -6,7 +6,12 @@ $scheme    = hexo-config('scheme') ? hexo-config('scheme') : 'Muse';
 $variables = base $scheme custom;
 $mixins    = base $scheme custom;
 
-
+#days{
+  display:block;
+  color:#07b38b;
+  font-size:13px;
+  margin-top:15px;
+}
 
 // Variables Layer
 // --------------------------------------------------
